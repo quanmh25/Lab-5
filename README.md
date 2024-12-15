@@ -39,3 +39,4 @@
 **Полезные ссылки**
 
 Общая статья о регулярных выражениях: https://habr.com/ru/articles/349860/
+Python docs: https://docs.python.org/3/library/re.html
